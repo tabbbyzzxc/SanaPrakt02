@@ -15,4 +15,4 @@
 - [ ] GitLab
 - [ ] Bitbucket
 
-**Виконавець: _Максим Магаз_ @tabbbyzzxc :space_invader:**
+**Виконавець: _Максим Магаз_ @tabbbyzzxc :space_invader: :+1:**
